@@ -1,0 +1,17 @@
+{
+    "projectName": "folder-it-training",
+    "username": "argentina.demo@atginfo.com",
+    "id": "10ef5820-e194-11e7-a487-a12397f65898",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na73.salesforce.com",
+    "workspace": "/Users/austinturner/dev/mm-force.com",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
